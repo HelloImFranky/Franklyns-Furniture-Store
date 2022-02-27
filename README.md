@@ -8,4 +8,4 @@ Web Hosting = Netlify
 
 <h2>Preview Images</h2>
 
-<img src="./images/screenShot1" width="300px">
+<img src="./images/screenShot1.png" width="300px">
